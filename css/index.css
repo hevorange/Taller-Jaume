@@ -4,6 +4,11 @@
 @import './hero.css';
 @import './wrapper.css';
 @import './menu.css';
+@import './testimony.css';
+@import './social.css';
+@import './footer.css';
+@import './form.css';
+@import './tittle.css';
 
 :root{
 
@@ -21,6 +26,7 @@
     --purple: #310A90;
     --green:#42E2B8;
     --white: #Ffffff;
+    
 }
 
 body{
@@ -29,6 +35,7 @@ body{
     min-block-size: 100vh;
     font: var(--body);
     color: var(--purple);
+    margin: 0;
     
 }
 
